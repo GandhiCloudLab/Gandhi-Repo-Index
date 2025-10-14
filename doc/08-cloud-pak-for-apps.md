@@ -13,49 +13,49 @@
         <td>1</td>
         <td>Application Modernization Accelerator (AMA) Installation</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/01-ama-local-install">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/01-ama-local-install">Link</a>
         </td>
    </tr> 
     <tr>
         <td>2</td>
         <td>Application Modernization Accelerator (AMA) in Detail</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/02-ama-in-detail">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/02-ama-in-detail">Link</a>
         </td>
    </tr> 
     <tr>
         <td>3</td>
         <td>Application Modernization Accelerator (AMA) in EASeJ</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/03-ama-in-EASeJ">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/03-ama-in-EASeJ">Link</a>
         </td>
    </tr> 
     <tr>
         <td>4</td>
         <td>Installing WAS ND, MoRE and Liberty in Linux (Ubundu)</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/02-more-installation-full">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-MoRE/tree/main/02-more-installation-full">Link</a>
         </td>
    </tr> 
       <tr>
         <td>5</td>
         <td>Modernized Runtime Extension for Java (MoRE)</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/03-about-more">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-MoRE/tree/main/03-about-more">Link</a>
         </td>
    </tr> 
     <tr>
         <td>6</td>
         <td>WAS ND Architectures</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/51-was-nd">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-MoRE/tree/main/51-was-nd">Link</a>
         </td>
    </tr> 
       <tr>
         <td>7</td>
         <td>IBM Mono2Micro</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/mono2micro">Link</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-mono2micro">Link</a>
         </td>
    </tr>               
 </table>

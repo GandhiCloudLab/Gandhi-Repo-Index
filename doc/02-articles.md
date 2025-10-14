@@ -15,7 +15,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>Application Modernization Accelerator (AMA) Installation</td>
         <td>Cloud Pak for Apps</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/01-ama-local-install">Tutorial</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/01-ama-local-install">Tutorial</a>
         </td>
    </tr> 
     <tr>
@@ -23,7 +23,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>Application Modernization Accelerator (AMA) in Detail</td>
         <td>Cloud Pak for Apps</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/02-ama-in-detail">Tutorial</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/02-ama-in-detail">Tutorial</a>
         </td>
    </tr> 
     <tr>
@@ -31,7 +31,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>Application Modernization Accelerator (AMA) in EASeJ</td>
         <td>EASeJ</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/ibm-ama/tree/main/03-ama-in-EASeJ">Article</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-ama/tree/main/03-ama-in-EASeJ">Article</a>
         </td>
    </tr> 
     <tr>
@@ -39,7 +39,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>Installing WAS ND, MoRE and Liberty in Linux (Ubundu)</td>
         <td>MoRE, WebSphere Liberty</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/02-more-installation-full">Tutorial</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-MoRE/tree/main/02-more-installation-full">Tutorial</a>
         </td>
    </tr> 
       <tr>
@@ -47,7 +47,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>Modernized Runtime Extension for Java (MoRE)</td>
         <td>MoRE, WebSphere Liberty</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/websphere/tree/main/03-about-more">Article</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-MoRE/tree/main/03-about-more">Article</a>
         </td>
    </tr> 
       <tr>
@@ -55,7 +55,7 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         <td>IBM Mono2Micro</td>
         <td>Cloud Pak for Apps</td>
         <td>
-        	<a href="https://github.com/GandhiCloudLab/mono2micro">Tutorial</a>
+        	<a href="https://github.com/GandhiCloudLab/ibm-websphere-mono2micro">Tutorial</a>
         </td>
    </tr>               
     <tr>
